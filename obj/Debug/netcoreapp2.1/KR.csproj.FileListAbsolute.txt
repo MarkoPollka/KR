@@ -1,0 +1,11 @@
+E:\Doc\KR\bin\Debug\netcoreapp2.1\KR.deps.json
+E:\Doc\KR\bin\Debug\netcoreapp2.1\KR.runtimeconfig.json
+E:\Doc\KR\bin\Debug\netcoreapp2.1\KR.runtimeconfig.dev.json
+E:\Doc\KR\bin\Debug\netcoreapp2.1\KR.dll
+E:\Doc\KR\bin\Debug\netcoreapp2.1\KR.pdb
+E:\Doc\KR\obj\Debug\netcoreapp2.1\KR.csprojAssemblyReference.cache
+E:\Doc\KR\obj\Debug\netcoreapp2.1\KR.csproj.CoreCompileInputs.cache
+E:\Doc\KR\obj\Debug\netcoreapp2.1\KR.AssemblyInfoInputs.cache
+E:\Doc\KR\obj\Debug\netcoreapp2.1\KR.AssemblyInfo.cs
+E:\Doc\KR\obj\Debug\netcoreapp2.1\KR.dll
+E:\Doc\KR\obj\Debug\netcoreapp2.1\KR.pdb
